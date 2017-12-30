@@ -1,0 +1,669 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.20)  20 DEC 2017 11:50
+entering extended mode
+**"./Sound Reflection.tex"
+("Sound Reflection.tex"
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count87
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count89
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@ContinuedFloat=\count90
+Package caption Info: float package is loaded.
+)
+("Sound Reflection.aux"
+
+LaTeX Warning: Label `autocorrelation power spectrum' multiply defined.
+
+)
+\openout1 = `"Sound Reflection.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen112
+\scratchbox=\box28
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen113
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks18
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 14.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 20.
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+[3]
+Overfull \hbox (0.40082pt too wide) detected at line 135
+\OML/cmm/m/it/12 r\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 ) = [] [][
+] \OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 X[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 e[]\O
+T1/cmr/m/n/12 )\OMS/cmsy/m/n/12 j[]\OML/cmm/m/it/12 \OT1/cmr/m/n/12 (\OML/cmm/
+m/it/12 e[] \OMS/cmsy/m/n/12   \OT1/cmr/m/n/12 1)\OML/cmm/m/it/12 e[]d\OT1/cmr/
+m/n/12 
+ = [] \OML/cmm/m/it/12 P[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 e[]\OT1/cmr/m/n/12 
+)\OML/cmm/m/it/12 cos\OT1/cmr/m/n/12 ([])[]
+ []
+
+
+Overfull \hbox (6.26256pt too wide) in paragraph at lines 141--142
+\OT1/cmr/m/n/12 Because fre-quency in-for-ma-tion is time de-pen-dent, frame-wi
+se auto-correlations
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+
+Overfull \hbox (2.96814pt too wide) in paragraph at lines 184--185
+\OT1/cmr/m/n/12 are just the com-plex con-ju-gates of the cor-re-spond-ing posi
+tive-frequency terms,
+ []
+
+[6] <"Triangular window scipy".png, id=30, 350.05782pt x 216.81pt>
+File: "Triangular window scipy".png Graphic file (type png)
+
+<use "Triangular window scipy".png>
+Package pdftex.def Info: "Triangular window scipy".png used on input line 192.
+(pdftex.def)             Requested size: 195.0pt x 120.77757pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 193.
+
+<"Unit pulse train".png, id=32, 462.528pt x 338.2236pt>
+File: "Unit pulse train".png Graphic file (type png)
+
+<use "Unit pulse train".png>
+Package pdftex.def Info: "Unit pulse train".png used on input line 205.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"Single Cycle Sine Wave".png, id=33, 462.528pt x 338.2236pt>
+File: "Single Cycle Sine Wave".png Graphic file (type png)
+
+<use "Single Cycle Sine Wave".png>
+Package pdftex.def Info: "Single Cycle Sine Wave".png used on input line 209.
+(pdftex.def)             Requested size: 185.0079pt x 135.28703pt.
+
+<"Convolution vs Full sequence 1".png, id=34, 462.528pt x 338.2236pt>
+File: "Convolution vs Full sequence 1".png Graphic file (type png)
+
+<use "Convolution vs Full sequence 1".png>
+Package pdftex.def Info: "Convolution vs Full sequence 1".png used on input lin
+e 213.
+(pdftex.def)             Requested size: 185.0079pt x 135.28703pt.
+ [7 <./Triangular window scipy.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+
+ []
+
+[8 <./Unit pulse train.png> <./Single Cycle Sine Wave.png> <./Convolution vs Fu
+ll sequence 1.png>]
+<"Single Cycle Multiple Harmonics".png, id=49, 462.528pt x 338.2236pt>
+File: "Single Cycle Multiple Harmonics".png Graphic file (type png)
+
+<use "Single Cycle Multiple Harmonics".png>
+Package pdftex.def Info: "Single Cycle Multiple Harmonics".png used on input li
+ne 230.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"Convolution vs Full sequence 2".png, id=50, 462.528pt x 338.2236pt>
+File: "Convolution vs Full sequence 2".png Graphic file (type png)
+
+<use "Convolution vs Full sequence 2".png>
+Package pdftex.def Info: "Convolution vs Full sequence 2".png used on input lin
+e 234.
+(pdftex.def)             Requested size: 185.0079pt x 135.28703pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+<"Reflection sequences".png, id=51, 462.528pt x 338.2236pt>
+File: "Reflection sequences".png Graphic file (type png)
+
+<use "Reflection sequences".png>
+Package pdftex.def Info: "Reflection sequences".png used on input line 249.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"Reflection equation".png, id=52, 462.528pt x 338.2236pt>
+File: "Reflection equation".png Graphic file (type png)
+
+<use "Reflection equation".png>
+Package pdftex.def Info: "Reflection equation".png used on input line 253.
+(pdftex.def)             Requested size: 185.0079pt x 135.28703pt.
+ [9 <./Single Cycle Multiple Harmonics.png> <./Convolution vs Full sequence 2.p
+ng>]
+<"Signal A1".png, id=58, 462.528pt x 338.2236pt>
+File: "Signal A1".png Graphic file (type png)
+ <use "Signal A1".png>
+Package pdftex.def Info: "Signal A1".png used on input line 270.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"Signal A2".png, id=59, 462.528pt x 338.2236pt>
+File: "Signal A2".png Graphic file (type png)
+ <use "Signal A2".png>
+Package pdftex.def Info: "Signal A2".png used on input line 274.
+(pdftex.def)             Requested size: 185.0079pt x 135.28703pt.
+
+<"Signal A3".png, id=60, 462.528pt x 338.2236pt>
+File: "Signal A3".png Graphic file (type png)
+ <use "Signal A3".png>
+Package pdftex.def Info: "Signal A3".png used on input line 278.
+(pdftex.def)             Requested size: 185.0079pt x 135.28703pt.
+ [10 <./Reflection sequences.png> <./Reflection equation.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+
+ []
+
+[11 <./Signal A1.png> <./Signal A2.png> <./Signal A3.png>]
+<"Signal A1 auto-correlation".png, id=72, 462.528pt x 338.2236pt>
+File: "Signal A1 auto-correlation".png Graphic file (type png)
+
+<use "Signal A1 auto-correlation".png>
+Package pdftex.def Info: "Signal A1 auto-correlation".png used on input line 29
+3.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"Signal A2 auto-correlation".png, id=73, 462.528pt x 338.2236pt>
+File: "Signal A2 auto-correlation".png Graphic file (type png)
+
+<use "Signal A2 auto-correlation".png>
+Package pdftex.def Info: "Signal A2 auto-correlation".png used on input line 29
+7.
+(pdftex.def)             Requested size: 185.0079pt x 135.28703pt.
+
+<"Signal A3 auto-correlation".png, id=74, 462.528pt x 338.2236pt>
+File: "Signal A3 auto-correlation".png Graphic file (type png)
+
+<use "Signal A3 auto-correlation".png>
+Package pdftex.def Info: "Signal A3 auto-correlation".png used on input line 30
+1.
+(pdftex.def)             Requested size: 185.0079pt x 135.28703pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+
+ []
+
+[12 <./Signal A1 auto-correlation.png> <./Signal A2 auto-correlation.png> <./Si
+gnal A3 auto-correlation.png>]
+<"Harmonic Numbers".png, id=81, 462.528pt x 338.2236pt>
+File: "Harmonic Numbers".png Graphic file (type png)
+
+<use "Harmonic Numbers".png>
+Package pdftex.def Info: "Harmonic Numbers".png used on input line 314.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"Signal A1 fft".png, id=82, 462.528pt x 338.2236pt>
+File: "Signal A1 fft".png Graphic file (type png)
+ <use "Signal A1 fft".png>
+Package pdftex.def Info: "Signal A1 fft".png used on input line 318.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"Signal A2 fft".png, id=83, 462.528pt x 338.2236pt>
+File: "Signal A2 fft".png Graphic file (type png)
+ <use "Signal A2 fft".png>
+Package pdftex.def Info: "Signal A2 fft".png used on input line 322.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"Signal A3 fft".png, id=84, 462.528pt x 338.2236pt>
+File: "Signal A3 fft".png Graphic file (type png)
+ <use "Signal A3 fft".png>
+Package pdftex.def Info: "Signal A3 fft".png used on input line 326.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+
+ []
+
+[13 <./Harmonic Numbers.png> <./Signal A1 fft.png> <./Signal A2 fft.png> <./Sig
+nal A3 fft.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--343
+
+ []
+
+<"Dry speech sample".png, id=93, 462.528pt x 338.2236pt>
+File: "Dry speech sample".png Graphic file (type png)
+
+<use "Dry speech sample".png>
+Package pdftex.def Info: "Dry speech sample".png used on input line 348.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"Reverbated speech sample".png, id=94, 462.528pt x 338.2236pt>
+File: "Reverbated speech sample".png Graphic file (type png)
+
+<use "Reverbated speech sample".png>
+Package pdftex.def Info: "Reverbated speech sample".png used on input line 352.
+
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+ [14 <./Dry speech sample.png> <./Reverbated speech sample.png>] <"AA Frame 1 n
+tr".png, id=100, 462.528pt x 338.2236pt>
+File: "AA Frame 1 ntr".png Graphic file (type png)
+
+<use "AA Frame 1 ntr".png>
+Package pdftex.def Info: "AA Frame 1 ntr".png used on input line 361.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"AA Frame 2 ntr".png, id=101, 462.528pt x 338.2236pt>
+File: "AA Frame 2 ntr".png Graphic file (type png)
+
+<use "AA Frame 2 ntr".png>
+Package pdftex.def Info: "AA Frame 2 ntr".png used on input line 365.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"AA Frame 3 ntr".png, id=102, 462.528pt x 338.2236pt>
+File: "AA Frame 3 ntr".png Graphic file (type png)
+
+<use "AA Frame 3 ntr".png>
+Package pdftex.def Info: "AA Frame 3 ntr".png used on input line 369.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"AA R Frame 1 ntr".png, id=103, 462.528pt x 338.2236pt>
+File: "AA R Frame 1 ntr".png Graphic file (type png)
+
+<use "AA R Frame 1 ntr".png>
+Package pdftex.def Info: "AA R Frame 1 ntr".png used on input line 373.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"AA R Frame 2 ntr".png, id=104, 462.528pt x 338.2236pt>
+File: "AA R Frame 2 ntr".png Graphic file (type png)
+
+<use "AA R Frame 2 ntr".png>
+Package pdftex.def Info: "AA R Frame 2 ntr".png used on input line 377.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"AA R Frame 3 ntr".png, id=105, 462.528pt x 338.2236pt>
+File: "AA R Frame 3 ntr".png Graphic file (type png)
+
+<use "AA R Frame 3 ntr".png>
+Package pdftex.def Info: "AA R Frame 3 ntr".png used on input line 381.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+ [15] [16 <./AA Frame 1 ntr.png> <./AA Frame 2 ntr.png> <./AA Frame 3 ntr.png> 
+<./AA R Frame 1 ntr.png> <./AA R Frame 2 ntr.png> <./AA R Frame 3 ntr.png>]
+<"Triangularization Frame 1 dry speech".png, id=118, 462.528pt x 338.2236pt>
+File: "Triangularization Frame 1 dry speech".png Graphic file (type png)
+
+<use "Triangularization Frame 1 dry speech".png>
+Package pdftex.def Info: "Triangularization Frame 1 dry speech".png used on inp
+ut line 390.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"AA Frame 1 tr".png, id=119, 462.528pt x 338.2236pt>
+File: "AA Frame 1 tr".png Graphic file (type png)
+
+<use "AA Frame 1 tr".png>
+Package pdftex.def Info: "AA Frame 1 tr".png used on input line 399.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"AA Frame 2 tr".png, id=120, 462.528pt x 338.2236pt>
+File: "AA Frame 2 tr".png Graphic file (type png)
+
+<use "AA Frame 2 tr".png>
+Package pdftex.def Info: "AA Frame 2 tr".png used on input line 403.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"AA Frame 3 tr".png, id=121, 462.528pt x 338.2236pt>
+File: "AA Frame 3 tr".png Graphic file (type png)
+
+<use "AA Frame 3 tr".png>
+Package pdftex.def Info: "AA Frame 3 tr".png used on input line 407.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"AA R Frame 1 tr".png, id=122, 462.528pt x 338.2236pt>
+File: "AA R Frame 1 tr".png Graphic file (type png)
+
+<use "AA R Frame 1 tr".png>
+Package pdftex.def Info: "AA R Frame 1 tr".png used on input line 411.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"AA R Frame 2 tr".png, id=123, 462.528pt x 338.2236pt>
+File: "AA R Frame 2 tr".png Graphic file (type png)
+
+<use "AA R Frame 2 tr".png>
+Package pdftex.def Info: "AA R Frame 2 tr".png used on input line 415.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"AA R Frame 3 tr".png, id=124, 462.528pt x 338.2236pt>
+File: "AA R Frame 3 tr".png Graphic file (type png)
+
+<use "AA R Frame 3 tr".png>
+Package pdftex.def Info: "AA R Frame 3 tr".png used on input line 419.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+ [17 <./Triangularization Frame 1 dry speech.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 424--425
+
+ []
+
+[18 <./AA Frame 1 tr.png> <./AA Frame 2 tr.png> <./AA Frame 3 tr.png> <./AA R F
+rame 1 tr.png> <./AA R Frame 2 tr.png> <./AA R Frame 3 tr.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
+
+ []
+
+<"FFT Frame 1".png, id=138, 462.528pt x 338.2236pt>
+File: "FFT Frame 1".png Graphic file (type png)
+ <use "FFT Frame 1".png>
+Package pdftex.def Info: "FFT Frame 1".png used on input line 432.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"FFT Frame 2".png, id=139, 462.528pt x 338.2236pt>
+File: "FFT Frame 2".png Graphic file (type png)
+ <use "FFT Frame 2".png>
+Package pdftex.def Info: "FFT Frame 2".png used on input line 436.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"FFT Frame 3".png, id=140, 462.528pt x 338.2236pt>
+File: "FFT Frame 3".png Graphic file (type png)
+ <use "FFT Frame 3".png>
+Package pdftex.def Info: "FFT Frame 3".png used on input line 440.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"FFT R Frame 1".png, id=141, 462.528pt x 338.2236pt>
+File: "FFT R Frame 1".png Graphic file (type png)
+
+<use "FFT R Frame 1".png>
+Package pdftex.def Info: "FFT R Frame 1".png used on input line 444.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"FFT R Frame 2".png, id=142, 462.528pt x 338.2236pt>
+File: "FFT R Frame 2".png Graphic file (type png)
+
+<use "FFT R Frame 2".png>
+Package pdftex.def Info: "FFT R Frame 2".png used on input line 448.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+
+<"FFT R Frame 3".png, id=143, 462.528pt x 338.2236pt>
+File: "FFT R Frame 3".png Graphic file (type png)
+
+<use "FFT R Frame 3".png>
+Package pdftex.def Info: "FFT R Frame 3".png used on input line 452.
+(pdftex.def)             Requested size: 195.0pt x 142.59483pt.
+ [19] [20 <./FFT Frame 1.png> <./FFT Frame 2.png> <./FFT Frame 3.png> <./FFT R 
+Frame 1.png> <./FFT R Frame 2.png> <./FFT R Frame 3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+
+ []
+
+("Sound Reflection.bbl" [21]) [22] ("Sound Reflection.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3207 strings out of 493323
+ 51449 string characters out of 3139065
+ 110396 words of memory out of 3000000
+ 6700 multiletter control sequences out of 15000+200000
+ 9463 words of font info for 33 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,9n,45p,860b,413s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "Sound Reflection.pdf" (22 pages, 1952417 bytes).
+PDF statistics:
+ 204 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+
