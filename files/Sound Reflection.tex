@@ -1,12 +1,28 @@
 \documentclass[12pt]{article}
-
+\usepackage{titlesec}
+\usepackage[super]{natbib}
+%indents
+\usepackage[top = 2cm, bottom = 2cm, left = 3cm, right = 3cm]{geometry}
+%don't label equations
+\usepackage{amsmath}
+%can use \therefore
+\usepackage{amssymb}
 \usepackage[super]{natbib}
 \usepackage{graphicx}
 \usepackage{float}
 \usepackage[font=footnotesize,labelfont=bf]{caption}
 
+%section header formatting
+\titleformat*{\section}
+	{\large\sffamily\bfseries}
+\titleformat*{\subsection}
+	{\sffamily\bfseries}
+\titleformat*{\subsubsection}
+	{\sffamily\bfseries}
 
-\title{Applying the Fourier Transform and Autocorrelation to Sound}
+
+\title{\sf{\textbf{Applying the Fourier Transform and Autocorrelation to Sound}}}
+\date{December, 2017}
 \author{Adam Gao}
 
 \begin{document}
